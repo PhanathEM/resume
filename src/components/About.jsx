@@ -146,7 +146,7 @@ function About() {
               </p>
 
               <h3 className="text-lg font-semibold text-gray-800 dark:text-white mt-1">
-                Open for Internship & Freelance Opportunities
+                Open for Internship
               </h3>
             </div>
           </motion.div>
