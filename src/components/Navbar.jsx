@@ -78,6 +78,7 @@ function Navbar() {
             shadow-lg shadow-black/10 dark:shadow-black/40
             flex flex-col items-center gap-5 py-6
             md:hidden
+            text-black dark:text-white
           "
         >
           {navLinks.map((item) => (
