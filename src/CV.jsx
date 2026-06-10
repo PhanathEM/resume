@@ -322,7 +322,7 @@ function CV() {
                 </Link>
 
                 <a
-                    href="/IT_Internship_CV_PhanathEM.pdf"
+                    href="/resume/IT_Internship_CV_PhanathEM.pdf"
                     download
                     className="bg-[#5b19ff] hover:bg-[#4814d1] text-white px-6 py-3 rounded-lg text-[17px] font-medium transition duration-300"
                 >
