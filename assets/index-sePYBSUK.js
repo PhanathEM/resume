@@ -26,6 +26,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
             shadow-lg shadow-black/10 dark:shadow-black/40\r
             flex flex-col items-center gap-5 py-6\r
             md:hidden\r
+            text-black dark:text-white\r
           `,children:i.map(e=>(0,k.jsx)(`a`,{href:`#${e.toLowerCase()}`,onClick:()=>r(!1),className:`\r
                 text-base font-medium\r
                 hover:text-purple-500\r
